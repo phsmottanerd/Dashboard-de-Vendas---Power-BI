@@ -41,9 +41,6 @@ Este projeto tem como objetivo **aprimorar minhas habilidades com ferramentas de
 
 ---
 
-## 📸 Preview
-
-![Dashboard Preview](https://www.linkedin.com/feed/update/urn:li:activity:7333748203105710080/)
 
 ---
 
