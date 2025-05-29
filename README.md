@@ -50,8 +50,7 @@ Este projeto tem como objetivo **aprimorar minhas habilidades com ferramentas de
 ## 📎 Contato
 
 📧 paulo.motta@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🌐 [Portfólio](https://seuportifolio.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-santana-motta-dev/)  
 
 ---
 
