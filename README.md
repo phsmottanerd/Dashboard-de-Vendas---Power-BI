@@ -43,7 +43,7 @@ Este projeto tem como objetivo **aprimorar minhas habilidades com ferramentas de
 
 ## 📸 Preview
 
-![Dashboard Preview](coloque_aqui_o_link_para_o_print_ou_gif)
+![Dashboard Preview](https://www.linkedin.com/feed/update/urn:li:activity:7333748203105710080/)
 
 ---
 
