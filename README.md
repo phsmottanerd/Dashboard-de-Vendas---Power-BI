@@ -46,7 +46,7 @@ Este projeto tem como objetivo **aprimorar minhas habilidades com ferramentas de
 
 ## 📎 Contato
 
-📧 paulo.motta@email.com  
+📧 phsmottavaiper@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-santana-motta-dev/)  
 
 ---
